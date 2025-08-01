@@ -1,0 +1,489 @@
+[{
+  "_id": {
+    "$oid": "688a7c2a563670a38647972d"
+  },
+  "applicantType": "company",
+  "companyName": "Geschenke aus dem Garten",
+  "firstName": "Heidi",
+  "lastName": "Hector",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-197251200000"
+    }
+  },
+  "birthPlace": "Saarlouis",
+  "address": "Bahnstr. 43",
+  "postalCode": "66780",
+  "city": "Hemmersdorf",
+  "phone": "004901722872048",
+  "email": "heidihector@gmx.de",
+  "productType": "Floristik aus Naturmaterialien und Gartendekoration",
+  "standLength": 3,
+  "standDepth": 2,
+  "standType": "tent",
+  "electricity": {
+    "needed": false
+  },
+  "water": false,
+  "productCategory": "artisanal",
+  "artisanalType": "Floristik aus Naturmaterialien und Gartendekoration",
+  "demonstration": false,
+  "remarks": "Wenn möglich würde ich gerne neben Frau Eick von den Tierischen Gartenwelten stehen. ",
+  "status": "pending",
+  "totalFee": 21,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T20:10:18.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T20:10:18.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a8c60563670a386479732"
+  },
+  "applicantType": "private",
+  "firstName": "Andre",
+  "lastName": "Schultheis",
+  "birthDate": {
+    "$date": "1975-05-18T00:00:00.000Z"
+  },
+  "birthPlace": "Manau?",
+  "address": "Schloss Str 171",
+  "postalCode": "54293",
+  "city": "Trier",
+  "phone": "00491636321805",
+  "email": "seriousmodelmail@aol.com",
+  "productType": "Comics, Poster, Nintendo, Gameboy",
+  "standLength": 6,
+  "standDepth": 3,
+  "standType": "carStand",
+  "electricity": {
+    "needed": false
+  },
+  "water": true,
+  "productCategory": "fleaMarket",
+  "demonstration": false,
+  "remarks": "Ist es wieder wie das letzte mal nur auf der Moselseite die Stände? Das war perfekt vom Platz und auch mit dem Auto super. Auf der anderen Seite war der Bürgersteig teilweise hoch das das Auto nicht hoch kam ohne Beschädigung.Aber so wie letztes Jahr war es perfekt,danke dafür",
+  "status": "pending",
+  "totalFee": 42,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:19:28.107Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:19:28.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a8cee563670a386479736"
+  },
+  "applicantType": "private",
+  "firstName": "Viviane",
+  "lastName": "Grün",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-440812800000"
+    }
+  },
+  "birthPlace": "Luxembourg",
+  "address": "40, rue de l'Horizon",
+  "postalCode": "L-5960",
+  "city": "Itzig",
+  "phone": "+352691294646",
+  "email": "ameilchen@yahoo.de",
+  "productType": "Floumuartsachen",
+  "standLength": 6,
+  "standDepth": 3,
+  "standType": "carStand",
+  "electricity": {
+    "needed": false
+  },
+  "water": false,
+  "productCategory": "fleaMarket",
+  "artisanalType": "",
+  "demonstration": false,
+  "remarks": "",
+  "status": "pending",
+  "totalFee": 42,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:21:50.729Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:21:50.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a8d78563670a386479741"
+  },
+  "applicantType": "association",
+  "firstName": "Daniel",
+  "lastName": "Fréres",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-103075200000"
+    }
+  },
+  "birthPlace": "Ettelbrück",
+  "address": "28 Quai de la Moselle",
+  "postalCode": "L-5553",
+  "city": "Remich",
+  "phone": "+352621140001",
+  "email": "info@giveusavoice.lu",
+  "productType": "accessoire pour animaux",
+  "standLength": 8,
+  "standDepth": 4,
+  "standType": "tent",
+  "electricity": {
+    "needed": false
+  },
+  "water": false,
+  "productCategory": "fleaMarket",
+  "demonstration": false,
+  "remarks": "",
+  "status": "pending",
+  "totalFee": 56,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:24:08.372Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:24:08.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a8df7563670a386479745"
+  },
+  "applicantType": "company",
+  "companyName": "Cartava",
+  "firstName": "Abdelhamid",
+  "lastName": "Bouabid",
+  "birthDate": {
+    "$date": "1988-03-02T00:00:00.000Z"
+  },
+  "birthPlace": "Sousse",
+  "address": "Am Ebertswald 4",
+  "postalCode": "L-55743",
+  "city": "Fischbach",
+  "phone": "00491745399542",
+  "email": "info@cartava.de",
+  "productType": "Olivenholzprodukte",
+  "standLength": 3,
+  "standDepth": 3,
+  "standType": "tent",
+  "electricity": {
+    "needed": false
+  },
+  "water": false,
+  "productCategory": "artisanal",
+  "artisanalType": "Olivenholzprodukte",
+  "demonstration": false,
+  "remarks": "",
+  "status": "pending",
+  "totalFee": 21,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:26:15.671Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:26:15.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a8ec6563670a386479749"
+  },
+  "applicantType": "company",
+  "companyName": "CafeTree",
+  "firstName": "Yann",
+  "lastName": "Catagna",
+  "birthDate": {
+    "$date": "1986-11-13T00:00:00.000Z"
+  },
+  "birthPlace": "?",
+  "address": "50 Rue Alexandre Fleming",
+  "postalCode": "L-3467",
+  "city": "Dudelange",
+  "phone": "+352691741391",
+  "email": "info@cafetree.lu",
+  "productType": "Café (en boisson)/ Thé / Chocolat chaud",
+  "standLength": 5,
+  "standDepth": 3,
+  "standType": "tent",
+  "electricity": {
+    "needed": true,
+    "type": "240v-high",
+    "watts": 3500
+  },
+  "water": false,
+  "productCategory": "artisanal",
+  "artisanalType": "CafeTree",
+  "demonstration": false,
+  "remarks": "Longueur 4,5m, Profondeur 2.5 m",
+  "status": "pending",
+  "totalFee": 35,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:29:42.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:29:42.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a8fc2563670a38647974d"
+  },
+  "applicantType": "private",
+  "firstName": "Helga",
+  "lastName": "Rauschberger",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-589939200000"
+    }
+  },
+  "birthPlace": "?",
+  "address": "Halden Weg 9",
+  "postalCode": "D-66333",
+  "city": "Völklingen Saar",
+  "phone": "000000000",
+  "email": "g.rauschenberger@yahoo.de",
+  "productType": "Porzellan, Glas, Nippes?",
+  "standLength": 8,
+  "standDepth": 5,
+  "standType": "carStand",
+  "electricity": {
+    "needed": false
+  },
+  "water": false,
+  "productCategory": "fleaMarket",
+  "demonstration": false,
+  "remarks": "Wir sind 2 Freundinnen mit jeweils 1 Auto am Stand (2PKW's). Bitte Platznummer wie 2024 Danker, Merci",
+  "status": "pending",
+  "totalFee": 56,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:33:54.543Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:33:54.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a9177563670a386479751"
+  },
+  "applicantType": "private",
+  "firstName": "Chantal",
+  "lastName": "Orth",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-282787200000"
+    }
+  },
+  "birthPlace": "?",
+  "address": "2 impasse du Ruisseau",
+  "postalCode": "L-5401",
+  "city": "Ahn",
+  "phone": "+352621350089",
+  "email": "mofemo@yahoo.de",
+  "productType": "Flohmarktartikel",
+  "standLength": 2,
+  "standDepth": 2,
+  "standType": "tent",
+  "electricity": {
+    "needed": false
+  },
+  "water": false,
+  "productCategory": "fleaMarket",
+  "demonstration": false,
+  "remarks": "Am Anhang d' Inscription fir den 19 Oktober.\nEch denken et ass alles richteg ausgefëllt an ech huelen jo un datt fir Privatpersounen kee Beleg vun der Haftpflicht muss dobai sinn.\nKönn Dir mech vlaicht  niewt Mme Arensdorff Pascale setzen.\nMerci.\nEt gouf keng gréisst uginn!!!! Waarden op input",
+  "status": "pending",
+  "totalFee": 14,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:41:11.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:41:11.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a92f3563670a386479755"
+  },
+  "applicantType": "company",
+  "companyName": "La Bel",
+  "firstName": "Birgitta ",
+  "lastName": "Birgitta ",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-5364662400000"
+    }
+  },
+  "birthPlace": "?",
+  "address": "Bachweg 13a",
+  "postalCode": "D-55758",
+  "city": "Mittelreidenbach",
+  "phone": "+4917696028037",
+  "email": "b.fuhr@freenet.de",
+  "productType": "Modeschmuck, Damenaccessoires",
+  "standLength": 9,
+  "standDepth": 3,
+  "standType": "carTrailerStand",
+  "electricity": {
+    "needed": true,
+    "type": "240v-lighting"
+  },
+  "water": false,
+  "productCategory": "artisanal",
+  "artisanalType": "Modeschmuck, Damenaccessoires",
+  "demonstration": false,
+  "remarks": "",
+  "status": "pending",
+  "totalFee": 63,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:47:31.440Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:47:31.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a93c8563670a386479759"
+  },
+  "applicantType": "private",
+  "firstName": "Rene",
+  "lastName": "Zimmer",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-413769600000"
+    }
+  },
+  "birthPlace": "?",
+  "address": "Auf dem Sabel 34",
+  "postalCode": "D-66706",
+  "city": "Perl",
+  "phone": "+352691465033",
+  "email": "zimmerhaasre@hotmail.com",
+  "productType": "de tout?",
+  "standLength": 6,
+  "standDepth": 2,
+  "standType": "carStand",
+  "electricity": {
+    "needed": false
+  },
+  "water": false,
+  "productCategory": "fleaMarket",
+  "demonstration": false,
+  "remarks": "Keng gréisst uginn....",
+  "status": "pending",
+  "totalFee": 42,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:51:04.793Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:51:04.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a945d563670a38647975d"
+  },
+  "applicantType": "private",
+  "firstName": "Agnés",
+  "lastName": "Cum-Kirsch",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-491875200000"
+    }
+  },
+  "birthPlace": "?",
+  "address": "15 rue du Bois",
+  "postalCode": "L-5692",
+  "city": "Elvange",
+  "phone": "+352691834773",
+  "email": "cummail@internet.lu",
+  "productType": "céramique",
+  "standLength": 6,
+  "standDepth": 3,
+  "standType": "tent",
+  "electricity": {
+    "needed": false
+  },
+  "water": false,
+  "productCategory": "artisanal",
+  "artisanalType": "céramique",
+  "demonstration": false,
+  "remarks": "",
+  "status": "pending",
+  "totalFee": 42,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:53:33.314Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:53:33.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a9527563670a386479761"
+  },
+  "applicantType": "company",
+  "companyName": "Tierische Gartenwelt",
+  "firstName": "Eick",
+  "lastName": "Zlatuse",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-5364662400000"
+    }
+  },
+  "birthPlace": "?",
+  "address": "Untere Bliesstraße 3",
+  "postalCode": "D-66539",
+  "city": "Neunkirchen",
+  "phone": "+491713210224",
+  "email": "keramik-katze@gmx.de",
+  "productType": "Gartendekorationen",
+  "standLength": 8,
+  "standDepth": 3,
+  "standType": "carStand",
+  "electricity": {
+    "needed": false
+  },
+  "water": false,
+  "productCategory": "artisanal",
+  "artisanalType": "Gartendekorationen",
+  "demonstration": false,
+  "remarks": "",
+  "status": "pending",
+  "totalFee": 56,
+  "standPhotos": [],
+  "createdAt": {
+    "$date": "2025-07-30T21:56:55.559Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T21:56:55.559Z"
+  },
+  "__v": 0
+}]

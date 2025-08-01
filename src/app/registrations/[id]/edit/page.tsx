@@ -49,7 +49,9 @@ export default function EditRegistrationPage() {
       const response = await axios.get(`/api/registrations/${id}`)
       return response.data
     },
-    enabled: !!id
+    enabled: !!id,
+    refetchOnMount: true, // Add this line
+  staleTime: 0,         // And/or this line
   })
 
   // Populate form with existing data
